@@ -1,0 +1,10 @@
+1. Use Matt's app design
+2. Use bootstrap for CSS (done)
+3. Use axios for API callls (done)
+4. Use FontAwesome for weather icons (done)
+5. App functionality includes:
+5a. City search
+5b. City name correctly displayed, as fetched from API
+5c. Date and time working correctly and refreshing in real time
+5d. Weather description displaying correctly based on current weather data
+5e. Unit conversion (C/F) working correctly and is based on actual fetched data, not math
